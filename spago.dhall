@@ -2,10 +2,12 @@
 , dependencies =
   [ "console"
   , "effect"
+  , "foldable-traversable"
   , "integers"
   , "lists"
   , "maybe"
   , "newtype"
+  , "nonempty"
   , "prelude"
   , "psci-support"
   , "strings"
